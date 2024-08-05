@@ -1,7 +1,6 @@
 #  Knight Rider Lights - (DLD Project)
 
 
-
 <div align="center">
   <img src="Done.jpg" alt="Light knight lights">
 </div>
@@ -65,6 +64,11 @@ List of components which are used in project are:
   - Arduino microcontroller to control LED lights.
   - Programmed using languages like C or C++.
   - Specialized LED driver circuits (e.g., 4017 or 4094 decade counter).
+
+<div align="center">
+  <img src="Circuit_Diagram.jpg" alt="Circuit_Diagram">
+</div>
+
 <hr>
 
 ### Proposed Approach
@@ -95,6 +99,7 @@ List of components which are used in project are:
   - Can also be used in cars or bikes.
 
 <hr>
+
 ### Results and Discussion
 - **LED Knight Rider Lights:**
   - Popular lighting effect featuring a series of LEDs that light up in a pattern mimicking the scanning motion of the Knight Rider car.
@@ -123,7 +128,13 @@ List of components which are used in project are:
   - LED Knight Rider lights are versatile and eye-catching, suitable for a wide range of applications.
   - By choosing high-quality LEDs, following a well-designed wiring pattern, and selecting the right control system, a dynamic and reliable lighting effect can be created to impress and delight audiences.
 
-<hr>
+ <hr>
+  
+<div align="center">
+  <img src="Running.jpg" alt="Running Diagram">
+</div>
+
+
 
 
 ***
