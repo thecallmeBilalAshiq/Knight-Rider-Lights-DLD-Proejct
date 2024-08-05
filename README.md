@@ -27,7 +27,6 @@ List of components which are used in project are:
 -  1 X 100uF CAPACITOR                      
 -  1 X PERF BOARD                           
 
-Sure, here's a well-designed bullet-point format for your README.md file:
 
 <hr>
 
